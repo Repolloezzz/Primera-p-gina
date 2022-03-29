@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(0, 0%, 91%);
+    margin: 8px;
+}
+header{
+    font-size: large;
+    font-family: cursive;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(247, 197, 60);
+    text-align: center;
+    
+}
+.boton{
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+section{
+    margin: 40px;
+    background-color: rgb(224, 220, 213);
+    padding: 50px;
+}
+section, article, h2{
+    text-decoration: underline;
+    text-decoration-color: rgb(73, 73, 73);
+}
+section, article, p{
+    text-decoration: none;
+    font-size: 20px;
+}
+img{
+    border-radius: 12px;
+    border: 5px solid #2a2b25;
+    max-width: 30%;
+    height: auto;
+
+}
+footer{
+    padding: 30px;
+    background-color: #575757;
+    color: rgb(255, 255, 255);
+}
